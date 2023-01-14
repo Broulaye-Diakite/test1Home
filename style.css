@@ -1,0 +1,46 @@
+.page{
+    background-color: beige;
+    padding: 0px;
+    margin: 200px;
+    display: flex;
+}
+.gauche{
+    background-color: rgb(17, 104, 6);
+    padding: 10px;
+    color: azure;
+}
+img{
+    width: 80px;
+    padding-left: 40px;
+}
+h4{
+    background-color: rgb(14, 78, 5) ;
+    margin-left: -10px;
+    text-align: center;
+    margin-right: -10px;
+}
+.cool{
+    background-color:rgb(14, 78, 5);
+    border: 2px solid rgb(17, 104, 6);
+    width: 200px;
+    height: 7px;
+}
+.po{
+    margin-top: 20px;
+}
+.inner{
+    height: 7px;
+    background-color:rgb(255, 255, 255);
+}
+.droite{
+    padding: 10px;
+}
+h3{
+    color:rgb(17, 104, 6) ;
+}
+.papi{
+    display: flex;
+}
+.papi2{
+    margin-left: 40px;
+}
